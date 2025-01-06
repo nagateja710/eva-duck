@@ -24,7 +24,7 @@ Can you master the art of ducking and dodging?
 ## 🚀 Getting Started   
 
 ### Installation  
-install the apk file on your android and enjoy!  
+go to releases and install the apk in your android and your good to go!
 
 ## 🎮 basic Controls  
 - **Jump**: Press the spacebar (or replace with your actual control key).  
