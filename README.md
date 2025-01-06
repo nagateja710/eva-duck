@@ -21,11 +21,7 @@ Can you master the art of ducking and dodging?
 
 ---
 
-## 🚀 Getting Started  
-### Prerequisites  
-Ensure you have the following installed:  
-- [Python](https://www.python.org/downloads/) (if the game uses Python and a library like Pygame).  
-- Any dependencies listed below.  
+## 🚀 Getting Started   
 
 ### Installation  
 install the apk file on your android and enjoy!  
